@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="btre/resour/1.1 btre_resources.zip/btre_resources/btre_theme/node_modules" />
+  </component>
+</project>
